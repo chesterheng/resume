@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "md-to-pdf --config-file config.js ./*.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
