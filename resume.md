@@ -4,78 +4,48 @@ Male Singapore Citizen | chester.heng@gmail.com | 97687850
 
 ## Summary
 
-Certified Professional in the field of Info-comm Technology (ICT) with 15+ years of  combined  experience  as  a  Frontend  Engineer  in  FinTech  domain,  an  IT Technical Trainer in the continuing education and training (CET) sector, an IT Lecturer in the Pre-Employment Training (PET) sector and a Software Developer in the telecommunications industry. Specialized in MongoDB, Express JS, React JS, and Node JS (MERN) and develop web applications.
+Certified Info-comm Technology (ICT) Professional with 15+ years of experience in Frontend Engineering, IT Technical Training, and Software Development, and a proven track record of delivering efficient, user-friendly web applications that meet complex business requirements and result in strong ROI.
 
-## Technical Skills
+## Technical and Soft Skills
 
-- JavaScript
-- TypeScript
-- React and Redux
-- Material UI
-- Node and Express
-- Knex and Objection 
-- Docker and Kubernetes
-- Unit and Automation Testing
-- Web Security
-- Web Performance
-
-## Soft Skills
-
-- Communication
-- Efficient Learning
-- Problem Solving
-- Sprint Planning
-- User Story Writing
-- Effort Estimation
-- Project Implementation
-- Technical Debt
-- Risk Management
-
-## Pedagogy Skills
-
-- Learning Theory
-- Instructional Design & Development
-- Classroom Activities Planning
-- Classroom Management
+- Proficient in JavaScript, TypeScript, React and Redux
+- Adapt quicky to new frontend development tools and technologies
+- Improve quality via testing and performance/security enhancements
+- Adept at working with Agile development methodologies
+- Experience with Git and version control systems
+- Ability to work with large and complex codebases
+- Excellent debugging and problem-solving skills
+- Strong communication and collaboration skills
 
 ## Work Experience
 
 ### GIC Private Limited, Full Stack Software Engineer, Mar 2021 to Apr 2022
 
-- Build Wealth Management Dashboard web applications.
-- Understand business requirements to create future-proof features.
-- Design and architect data model, logic model and routing table.
-- Evaluate and select best-fit React JS component libraries.
-- Build reusable React data grid and chart components.
-- Build backend REST APIs using NestJS.
-- Build unit tests with React Testing Library.
-- Build automation tests with Cypress.
-- Improve codebase with clean code methodologies.
-- Apply agile methodologies such as kanban boards (Jira) and daily standups.
+- Collaborated effectively with cross-functional teams for on-time and high-quality project delivery.
+- Designed efficient Wealth Management Dashboard web application, meeting complex business requirements and delivering a strong ROI with future-proof features.
+- Designed and architected data model, logic model, and routing table, resulting in a robust and scalable solution that meets the client's evolving needs.
+- Developed secure and scalable backend REST APIs using NestJS, ensuring the smooth functioning of the application.
+- Improved code quality with unit tests using Jest and React Testing Library and automation tests with Cypress, reducing bugs and downtime.
+- Improved the codebase with clean code methodologies.
 
 ### Lumiq, Frontend Software Engineer, May 2019 - Sep 2020
 
-- Build Wealth Management and Admin web applications.
-- Design and architect data model, logic model and routing table.
-- Evaluate and select best-fit React JS component libraries.
-- Build reusable React data grid and chart components.
-- Integrate with backend REST APIs using Axios.
-- Build unit tests with React Testing Library.
-- Build automation tests with TestCafe.
-- Improve codebase with clean code methodologies.
-- Write comprehensive technical documentation.
-- Mentor junior developers on JavaScript, React JS and Redux.
-- Apply agile methodologies such as kanban boards (Jira) and daily standups.
-- Optimize web application performance.
-- Improve web application security.
+- Designed and developed user-friendly Wealth Management and Admin web applications that met the complex requirements of the clients.
+- Demonstrated React JS expertise by evaluating and selecting the best-fit component libraries and building reusable data grid and chart components that improved the user experience.
+- Implemented seamless integration with backend REST APIs using Axios, ensuring the stability and reliability of the applications.
+- Maintained the quality of the code by writing unit tests using Jest and React Testing Library and automation tests with TestCafe, reducing bugs and downtime.
+- Improved the codebase with clean code methodologies and provided technical documentation, making the applications easier to maintain and understand.
+- Mentored junior developers and provided guidance on best practices for JavaScript, React JS, and Redux, helping them to grow and develop their skills.
+- Optimized web application performance by reducing bundle size, minimizing component render time, and avoiding unneeded re-renders.
+- Improved web application security through regular software and library updates, robust authentication and authorization, and secure coding practices.
 
 ### Zenika, Consultant, Oct 2018 - Apr 2022
 
 #### Training Lead
 
-- Applied Citrep+ funding for React JS training.
-- Analysis latest trends in technology landscape to roll out new training.
-- Created structure training programs for Full-stack engineer, Business Intelligence analyst and Data engineer.
+- Utilized Citrep+ funding to provide advanced React JS training to professionals.
+- Launched new training based on latest technology trends.
+- Created structured training programs for Full-stack engineer, Business Intelligence analyst and Data engineer.
 
 #### Curriculum Developer
 
@@ -86,8 +56,8 @@ Certified Professional in the field of Info-comm Technology (ICT) with 15+ years
 
 #### Training Instructor
 
-- Delivered Data visualization, Software engineering, Database, Machine learning and Data warehouse courses for CACIB. Awarded an average evaluation grade of 4.5/5 for all training.
-- Delivered React JS course for NetAssist. Awarded an average evaluation grade of 8/9 for all React JS training.
+- Delivered training in Data visualization, Software engineering, Database, Machine learning, and Data warehouse courses for CACIB and received an average evaluation grade of 4.5/5.
+- Conducted React JS training sessions for NetAssist and received an average evaluation grade of 8/9.
 
 ### Esri Singapore, Web Developer, Technical Trainer, Course Developer, Apr 2016 – Sep 2018
 

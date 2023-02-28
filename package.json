@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "md-to-pdf --config-file config.js ./*.md"
+    "start": "md-to-pdf --config-file config.js ./resume.md"
   },
   "keywords": [],
   "author": "",
